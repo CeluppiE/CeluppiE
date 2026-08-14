@@ -11,6 +11,16 @@
 
 ---
 
+## 🚀 Projeto em destaque — Arthropod
+
+Plataforma SaaS multi-tenant de atendimento via WhatsApp com IA, construída com o [Nando](https://github.com/fkuboan) — eu liderei o backend e a arquitetura de dados, ele liderou o frontend. Agentes com Gemini lidam com conversas multimodais (texto, áudio, imagem), catálogo de produtos, promoções, FAQs e transferência para atendimento humano, para clientes pagantes reais, com tratamento de dados em conformidade com a LGPD.
+
+**Linguagens:** Python · HTML/CSS/JavaScript
+**Stack:** FastAPI · PostgreSQL/Supabase · Docker · Jinja2 · Google Gemini · WhatsApp (Evolution API)
+**No ar:** [arthropod.com.br](https://arthropod.com.br)
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### **Cloud & DevOps**
