@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Eduardo Celuppi</h1>
-<h3 align="center">Cloud Engineer | MLOps Enthusiast | Python & JavaScript Backend Developer</h3>
+<h3 align="center">Data Engineer | Python, SQL & ETL | GCP | Data Automation</h3>
 
 ---
 
-## 🚀 Sobre Mim
-- 🎓 Graduando em Engenharia de Software.
-- ☁️ Facilitador do programa Google Cloud Arcade, especialista em infraestrutura GCP.
-- 🤖 Focado no ciclo de vida de modelos de IA e arquiteturas escaláveis.
-- 🇮🇹 Cidadão Italiano com disponibilidade para atuação na Europa.
+## 🚀 About Me
+- 🎓 Software Engineering student.
+- ☁️ Google Cloud Arcade Facilitator, GCP infrastructure specialist.
+- 🤖 Focused on AI model lifecycle and scalable architectures.
+- 🇮🇹 Italian citizen, available to work in Europe.
 
 ---
 
-## 🚀 Projeto em destaque — Arthropod
+## 🚀 Featured project — Arthropod
 
-Plataforma SaaS multi-tenant de atendimento via WhatsApp com IA, construída com o [Nando](https://github.com/fkuboan) — eu liderei o backend e a arquitetura de dados, ele liderou o frontend. Agentes com Gemini lidam com conversas multimodais (texto, áudio, imagem), catálogo de produtos, promoções, FAQs e transferência para atendimento humano, para clientes pagantes reais, com tratamento de dados em conformidade com a LGPD.
+Multi-tenant WhatsApp AI customer-service SaaS platform, built with [Nando](https://github.com/fkuboan) — I led backend and data architecture, he led the frontend. Gemini-powered agents handle multi-modal conversations (text, audio, image), product catalogs, promotions, FAQs, and human handoff for real paying clients, with LGPD-compliant data handling.
 
-**Linguagens:** Python · HTML/CSS/JavaScript
+**Languages:** Python · HTML/CSS/JavaScript
 **Stack:** FastAPI · PostgreSQL/Supabase · Docker · Jinja2 · Google Gemini · WhatsApp (Evolution API)
-**No ar:** [arthropod.com.br](https://arthropod.com.br)
+**Live:** [arthropod.com.br](https://arthropod.com.br)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 ### **Cloud & DevOps**
 <p align="left">
@@ -52,11 +52,10 @@ Plataforma SaaS multi-tenant de atendimento via WhatsApp com IA, construída com
 
 ---
 
-## 📫 Contato
-
-- ✉️ **E-mail:** [joseceluppieduardo@gmail.com](mailto:joseceluppieduardo@gmail.com)
+## 📫 Contact
+- ✉️ **Email:** joseceluppieduardo@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/celuppi](https://www.linkedin.com/in/celuppi/)
 
 ---
 
-*"Engenharia não é apenas construir coisas, é fazer as coisas funcionarem de forma eficiente e escalável."* — **James Liang**
+*"Engineering is not just about building things — it's about making things work efficiently and at scale."* — **James Liang**
